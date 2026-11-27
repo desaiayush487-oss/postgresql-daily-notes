@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 # PostgreSQL Daily Learning Series
 
-Documenting my daily PostgreSQL practice alongside course.
+Documenting my daily PostgreSQL practice alongside HindiWaleEngineer's course.
 
 ## Progress Log
-- [Day 1 — Setup & Intro](./day-01-setup-and-intro/notes.md)
+- [Day 1 - Setup & Intro](./day-01-setup-and-intro/notes.md)
 - [Day 2 - DDL & Table Operations](./day-02-ddl-and-tables/notes.md)
-=======
-# postgresql-daily-notes
-Daily PostgreSQL practice logs, SQL scripts, and notes following —covering setup, DDL, DML, DQL, and database concepts alongside a #LearnInPublic LinkedIn series.
->>>>>>> aa7045fbad1e58d60a5e248703eaa69c10ba70a9
+- [Day 3 - DML & DQL Queries](./day-03-dml-and-dql/notes.md)
+- [Day 4 - SQL Joins (LEFT, RIGHT, FULL, CROSS)](./day-04-joins/notes.md)
